@@ -24,7 +24,9 @@ For the Global AI Developer Days we have prepaired 3 workshops for you.
 ### PyTorch and Azure Machine Learning
 
 
-### 
+### Patient registration made easy with AI services
+
+### TBA
 
 
 
