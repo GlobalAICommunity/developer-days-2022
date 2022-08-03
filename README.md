@@ -1,4 +1,4 @@
-# Developer Days 2022
+# Developer Days 2022 - Organizers information
 
 **26 October - 4 November 2022**
 
@@ -12,21 +12,35 @@ During the Global AI Developer Days, we take technologists on a journey to dive 
 | Date | Topic | Description| 
 | --- | --- | --- |
 | 26 October | **The possibilities of AI** | A Day of inspiring keynotes from industry leaders with a high focus on AI developers. Topics range from responsible AI to products announcements and machine learning operations. |
-| 27 October | **Dive deep into with the community** | From who can we learn the best? Exactly the people who apply AI daily! 
-Join us on 27 October 2023 for a around the sun tour where we connect with industry leaders from around the world! |
+| 27 October | **Dive deep into with the community** | From who can we learn the best? Exactly the people who apply AI daily! Join us on 27 October 2023 for a around the sun tour where we connect with industry leaders from around the world! |
 | 28 - 4 November | **Get hands-on in your local AI community** | Join a location near you on the map below and join a local meetup where you can get some hands-on experience and connect to your local AI community! |
+
+### Participate?
+There are 2 way's to participate
+
+**Join as an organizer**
+
+
+
+**Join as a speaker**
+
+
 
 
 ## Workshops
 For the Global AI Developer Days we have prepaired 3 workshops for you.
 
-
 ### PyTorch and Azure Machine Learning
+Duration: 2-3 hours
 
 
 ### Patient registration made easy with AI services
+Duration: 2-3 hours
+
 
 ### TBA
+Duration: 2-3 hours
+
 
 
 
