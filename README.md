@@ -13,7 +13,7 @@ During the Global AI Developer Days, we take technologists on a journey to dive 
 | --- | --- | --- | --- | 
 | 26 October | **The possibilities of AI** | A Day of inspiring keynotes from industry leaders with a high focus on AI developers. Topics range from responsible AI to products announcements and machine learning operations. | [Submit a keynote](https://sessionize.com/global-ai-developers-days/) |
 | 27 October | **Dive deep into with the community** | From who can we learn the best? Exactly the people who apply AI daily! Join us on 27 October 2023 for a around the sun tour where we connect with industry leaders from around the world! | [Submit a keynote](https://sessionize.com/global-ai-developers-days/) |
-| 28 - 4 November | **Get hands-on in your local AI community** | Join a location near you on the map below and join a local meetup where you can get some hands-on experience and connect to your local AI community! | [Submit a keynote]([https://sessionize.com/global-ai-developers-days/](https://globalai.community/developer-days/organizers/) |
+| 28 - 4 November | **Get hands-on in your local AI community** | Join a location near you on the map below and join a local meetup where you can get some hands-on experience and connect to your local AI community! | [Become an organizer](https://globalai.community/developer-days/organizers/) |
 
 ### Participate?
 There are 2 way's to participate
