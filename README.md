@@ -25,7 +25,9 @@ Duration: 2-3 hours
 ### Patient registration made easy with AI services
 Duration: 2-3 hours
 
-### TBA
+### Develop Custom Object Detection Models with NVIDIA and Azure Machine Learning
+Azure Machine Learning studio is a GUI-based integrated development environment for constructing and operationalizing Machine Learning workflow on Azure. Learn how to develop custom object detection models using this service with NVIDIA GPU accelerated virtual machines.
+https://aka.ms/gaidd/workshop/nvidia
 Duration: 2-3 hours
 
 
