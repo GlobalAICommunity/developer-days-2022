@@ -15,17 +15,6 @@ During the Global AI Developer Days, we take technologists on a journey to dive 
 | 27 October | **Dive deep into with the community** | From who can we learn the best? Exactly the people who apply AI daily! Join us on 27 October 2023 for a around the sun tour where we connect with industry leaders from around the world! | [See the schedule](https://devdays.globalai.community/) |
 | 28 - 4 November | **Get hands-on in your local AI community** | Join a location near you on the map below and join a local meetup where you can get some hands-on experience and connect to your local AI community! | [Become an organizer](https://globalai.community/developer-days/organizers/) |
 
-### Participate?
-There are 2 way's to participate
-
-**Join as an organizer**
-
-
-
-**Join as a speaker**
-
-
-
 
 ## Workshops
 For the Global AI Developer Days we have prepaired 3 workshops for you.
@@ -33,10 +22,8 @@ For the Global AI Developer Days we have prepaired 3 workshops for you.
 ### PyTorch and Azure Machine Learning
 Duration: 2-3 hours
 
-
 ### Patient registration made easy with AI services
 Duration: 2-3 hours
-
 
 ### TBA
 Duration: 2-3 hours
