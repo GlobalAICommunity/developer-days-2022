@@ -30,6 +30,7 @@ https://aka.ms/gaidd/workshop/nvidia
 Duration: 2-3 hours  
 
 ### PyTorch and Azure Machine Learning   
+https://aka.ms/gaidd/workshop/pytorch    
 Duration: 2-3 hours
 
 
